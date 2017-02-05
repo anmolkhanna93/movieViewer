@@ -12,20 +12,16 @@ Submitted by: Anmol Khanna
 
 The following **required** functionality is complete:
 
-[1]  User can view a list of movies currently playing in theaters from The Movie Database.
+[1] User can view a list of movies currently playing in theaters from The Movie Database.
 
-[2] User can choose the tip percentages from 18%, 20%, 25%.
+[2] Poster images are loaded using the UIImageView category in the AFNetworking library.
+The movie poster is available by appending the returned poster_path to https://image.tmdb.org/t/p/w342.
+
+[3] User sees a loading state while waiting for the movies API (you can use any 3rd party library available to do this).
+
+[4] User can pull to refresh the movie list.
 
 
-The following **optional** features are implemented:
-
-[1]  I have enhanced the user interface for my application.
-
-[2] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
-
-The following **additional** features are implemented:
-
-[1]  I have also added a slider for splitting the total bill among the group members. For now the maximum number of people is five.
 
 ## Video Walkthrough 
 
