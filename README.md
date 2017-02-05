@@ -12,7 +12,7 @@ Submitted by: Anmol Khanna
 
 The following **required** functionality is complete:
 
-[1] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+[1]  User can view a list of movies currently playing in theaters from The Movie Database.
 
 [2] User can choose the tip percentages from 18%, 20%, 25%.
 
