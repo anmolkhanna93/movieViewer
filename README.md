@@ -1,13 +1,12 @@
-# Tip-Calculator
+#Flicks-App
 CodePath Ios Submission
 
-# Pre-work - TipCalculator
+# Week1 - TipCalculator
 
-TipCalculator is a tip calculator application for iOS.
+Flicks is a application for iOS to see the top rated movies.
 
 Submitted by: Anmol Khanna
 
-Time spent: 6 hours spent in total
 
 ## User Stories
 
