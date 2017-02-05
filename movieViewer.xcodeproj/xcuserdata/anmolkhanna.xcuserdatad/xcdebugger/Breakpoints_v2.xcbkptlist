@@ -97,7 +97,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "movieViewer/MoviesViewController.swift"
@@ -108,6 +108,38 @@
             endingLineNumber = "38"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "movieViewer.MoviesViewController.viewDidLoad () -&gt; ()"
+                  moduleName = "movieViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anmolkhanna/Documents/Xcode%20Projects/movieViewer/movieViewer/MoviesViewController.swift"
+                  timestampString = "507950126.980465"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "2273">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "movieViewer.MoviesViewController.(viewDidLoad () -&gt; ()).(closure #1)"
+                  moduleName = "movieViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anmolkhanna/Documents/Xcode%20Projects/movieViewer/movieViewer/MoviesViewController.swift"
+                  timestampString = "507950126.983282"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
