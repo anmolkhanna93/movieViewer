@@ -27,7 +27,7 @@ The movie poster is available by appending the returned poster_path to https://i
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/qDlbsgJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![alt tag](https://github.com/anmolkhanna93/movieViewer/blob/master/MovieViewer.gif)
 
 ## License
 
