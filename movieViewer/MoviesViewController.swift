@@ -15,6 +15,8 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
     @IBOutlet weak var tableView: UITableView!
     
     var movies : [NSDictionary]?
+    var endpoint : String!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         tableView.dataSource = self
