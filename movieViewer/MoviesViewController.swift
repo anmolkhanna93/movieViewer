@@ -123,6 +123,12 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
         cell.posterView.setImageWith(imageUrl as! URL)
         }
         
+        let backgroundView = UIView()
+        backgroundView.backgroundColor = UIColor.red
+        cell.selectedBackgroundView = backgroundView
+        
+       
+        
         print("row\(indexPath.row)")
         return cell
     }
