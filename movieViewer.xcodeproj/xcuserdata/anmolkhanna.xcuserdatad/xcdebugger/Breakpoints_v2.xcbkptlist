@@ -101,11 +101,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "movieViewer/MoviesViewController.swift"
-            timestampString = "507959064.061055"
+            timestampString = "508118656.185616"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "40"
-            endingLineNumber = "40"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -117,12 +117,12 @@
                   moduleName = "movieViewer"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/anmolkhanna/Documents/Xcode%20Projects/movieViewer/movieViewer/MoviesViewController.swift"
-                  timestampString = "507950126.980465"
+                  timestampString = "508118848.350874"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "39"
-                  endingLineNumber = "39"
-                  offsetFromSymbolStart = "2273">
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "2665">
                </Location>
                <Location
                   shouldBeEnabled = "No"
@@ -132,11 +132,11 @@
                   moduleName = "movieViewer"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/anmolkhanna/Documents/Xcode%20Projects/movieViewer/movieViewer/MoviesViewController.swift"
-                  timestampString = "507950126.983282"
+                  timestampString = "508118848.353212"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "40"
-                  endingLineNumber = "40"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
                   offsetFromSymbolStart = "27">
                </Location>
             </Locations>
