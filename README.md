@@ -1,7 +1,7 @@
 #Flicks-App
 CodePath Ios Submission
 
-# Week1 - TipCalculator
+# Week1 - Flicks
 
 Flicks is a application for iOS to see the top rated movies.
 
